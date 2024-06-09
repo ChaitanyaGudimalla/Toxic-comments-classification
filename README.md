@@ -62,7 +62,8 @@ jupyter notebook notebooks/toxic_comments_classification.ipynb
 ```
 ## Data
 The data used in this project is located in the data/ directory. Ensure you have the necessary data files before running the notebook. If the data is large, consider downloading it from Kaggle.
-Note: "wiki-news-300d-1M.vec" file is not uploaded in data/ directory. MAke sure to download it from kaggle or from google.
+
+**Note:** "wiki-news-300d-1M.vec" file is not uploaded in data/ directory. MAke sure to download it from kaggle or from google.
 
 ## Contributing
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
