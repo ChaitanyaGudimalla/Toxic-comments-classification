@@ -28,3 +28,30 @@ To get started, clone this repository to your local machine:
 ```bash
 git clone https://github.com/ChaitanyaGudimalla/toxic-comments-classification.git
 cd toxic-comments-classification
+```
+## Requirements
+Make sure you have Python installed. Then, install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+Alternatively, you can use the environment.yml file to create a conda environment:
+
+```bash
+conda env create -f environment.yml
+conda activate toxic-comments-classification
+```
+## Usage
+To run the notebook, execute the following command:
+
+```bash
+jupyter notebook notebooks/toxic_comments_classification.ipynb
+```
+## Data
+The data used in this project is located in the data/ directory. Ensure you have the necessary data files before running the notebook. If the data is large, consider downloading it from Kaggle.
+
+## Contributing
+If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
