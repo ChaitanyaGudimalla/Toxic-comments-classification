@@ -18,6 +18,19 @@ This project works on the classification of toxic and non-toxic comments in the 
 ### Theoretical Analysis of Techniques Results
 Discussing our initial results, show that both the LSTM and LSTM-CNN models are effective in classifying toxic comments which gave accuracy of 87.7 and 87.1 respectively.However, the LSTM-CNN model outperforms the LSTM based on the results in finding the probability of toxicity in each comment category.We plan to further improve the model's performance by fine-tuning the hyperparameters, exploring other deep learning architectures,and analyzing the misclassified comments to identify the model's weaknesses.
 
+## Sample Output1:
+
+![image](https://github.com/ChaitanyaGudimalla/Toxic-comments-classification/assets/156839200/6569a908-016d-4ed1-b9b6-e94b2887f44f)
+
+## Sample Output2:
+
+![image](https://github.com/ChaitanyaGudimalla/Toxic-comments-classification/assets/156839200/0bb06a5a-5647-445a-858a-d4778ab0dd48)
+
+## Sample Output3:
+
+![image](https://github.com/ChaitanyaGudimalla/Toxic-comments-classification/assets/156839200/e73784a7-b555-46e1-b6b3-f3645bbefe34)
+
+
 ### CONCLUSION
 In this project milestone, we presented our approach for classifying toxic comments using LSTM and LSTM-CNN models.Our initial results show promising performance, and we plan to further improve the model's accuracy and robustness.We believe that our project has the potential to contribute to a safer and healthier online community by identifying and preventing online abuse.
 
